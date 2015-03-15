@@ -1,0 +1,5 @@
+ //Removed ------> item.Lightningstriker.name=LightningStriker
+item.lightning_striker.name=[Amateur] Lightning Striker
+item.lightning_striker_iron.name=[Evil] Lightning Striker
+item.lightning_striker_wizard.name=[Wizard] Lightning Striker
+itemgroup.lms=Lightning Striker Mod
